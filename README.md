@@ -12,6 +12,7 @@ $$
 - input a set of test images, from inception get a  set of feature vector owning to each image
 - m, m_w, mean vector, also m_w
 - C, C_w, the covariance matrix over activations for generated samples or real samples
+- intra FID: compute FID within each class
 
 ## ref
 1.[fid](https://zhuanlan.zhihu.com/p/393067371)
