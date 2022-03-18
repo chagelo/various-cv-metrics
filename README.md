@@ -1,6 +1,10 @@
 # various-cv-metrics
 a list of various cv metrics for studying
 
+## is
+
+ref to https://github.com/sbarratt/inception-score-pytorch
+
 ## fid
 
 measure the reality of the generated images.
